@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="action_conversion">Conversion</string>
+
+    <string name="base_currency_tmp">Base currency: %s</string>
+    <string name="update_tmp">Update: %s</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="base_currency_chose_title">Chose base currency</string>
+    <string name="second_currency_chose_title">Chose second currency</string>
+    <string name="title_activity_conversion">Conversion</string>
+    <string name="title_activity_rate_final">History</string>
+    <string name="conversion_value_edt_hint">Enter amount of %s</string>
+    <string name="to">to</string>
+    <string name="select_base_currency">Select base currency</string>
+    <string name="select_second_currency">Select second currency</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="conversion_result_tmp">%s %s = %f %s</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="currency_tmp">%s to %s</string>
+    <string name="result_tmp">Result: %s</string>
+    <string name="rate_tmp">Rate: %s</string>
+</resources>
